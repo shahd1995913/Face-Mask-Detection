@@ -1,0 +1,8 @@
+python = ">=3.9,<3.11"
+tensorflow = "^2.8.0"
+matplotlib = "^3.5.1"
+keras = "^2.8.0"
+seaborn = "^0.11.2"
+numpy = "^1.22.3"
+sklearn = "^0.0"
+opencv-python-headless = "^4.5.5"
